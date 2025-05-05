@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 个人简介
 
-> 你好！我是**[你的名字]**，专注于大语言模型（LLM）与蜜罐（Honeypot）安全技术的研究者。热爱人工智能、网络安全与前沿技术，致力于用技术守护数字世界。
+> 你好！我是Qianli Wang，专注于大语言模型（LLM）与蜜罐（Honeypot）安全技术的研究者。热爱人工智能、网络安全与前沿技术，致力于用技术守护数字世界。
 
 ---
 
@@ -23,20 +23,20 @@
 
 | 项目名称         | 简介                                                         | 技术栈         |
 |------------------|-------------------------------------------------------------|----------------|
-| LLM Playground   | 大语言模型实验平台，支持多模型对比与推理                    | Python, FastAPI, Vue |
-| 智能蜜罐系统     | 高交互蜜罐，自动化捕获与分析攻击行为                        | Python, Docker, ELK  |
-| 安全数据可视化   | 攻击溯源与威胁情报可视化平台                                | React, D3.js         |
+| LLM Playground   | 大语言模型实验平台，支持多模型对比与推理                    | Python, FastAPI |
+| 智能蜜罐系统     | 高交互蜜罐，自动化捕获与分析攻击行为                        | Python, Docker  |
+| 安全数据可视化   | 攻击溯源与威胁情报可视化平台                                | React, ECharts         |
 
 ---
 
 ## 🛠️ 技能清单
 
-- **编程语言**：Python、JavaScript、TypeScript、Shell
+- **编程语言**：Python、JavaScript、Shell
 - **AI/LLM**：PyTorch、Transformers、LangChain
 - **安全技术**：蜜罐部署、入侵检测、日志分析
-- **云与容器**：Docker、Kubernetes、AWS
-- **前端开发**：React、Vue、ECharts
-- **数据分析**：Pandas、ELK Stack
+- **容器**：Docker
+- **前端开发**：React、ECharts
+- **数据分析**：Pandas
 
 ---
 
@@ -54,10 +54,8 @@
 
 ## 📫 联系方式
 
-- 邮箱：your.email@example.com
-- GitHub：[your-github-username](https://github.com/your-github-username)
-- 博客：[你的博客地址](https://yourblog.example.com)
-- 微信：your-wechat-id
+- 邮箱：heimagogo6@163.com
+- GitHub：[QIANLI-WANG](https://github.com/3089464667)
 
 ---
 
