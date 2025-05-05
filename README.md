@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" />
+  <img src="imgs/image.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 欢迎来到我的个人主页！</h1>
