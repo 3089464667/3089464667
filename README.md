@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/image.png" alt="Banner" width="100%" />
+  <img src="imgs/image1.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 欢迎来到我的个人主页！</h1>
