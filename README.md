@@ -68,7 +68,7 @@
 
 ## 📊 仓库总 clone 数
 
-> 截止目前，我的所有仓库总共被 clone 了 **XXX 次**。（数据来自各仓库 Insights 手动统计）
+> 截止目前，我的default-app仓库总共被 clone 了 122 次。
 
 ---
 
