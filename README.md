@@ -19,6 +19,20 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/3089464667">
+    <img src="https://github-readme-stats.vercel.app/api?username=3089464667&show_icons=true&theme=default" alt="QIANLI-WANG's GitHub Stats" width="400" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3089464667&theme=default" width="600" />
+</p>
+
+---
+
 ## 🚀 项目介绍
 
 | 项目名称         | 简介                                                         | 技术栈         |
