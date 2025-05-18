@@ -104,7 +104,7 @@
 
 - 邮箱：heimagogo6@163.com
 - GitHub：[QIANLI-WANG](https://github.com/3089464667)
-
+- douyin、B station、small red book：knowledge-share
 ---
 
 > “安全是人工智能的基石，创新是网络世界的未来。”
