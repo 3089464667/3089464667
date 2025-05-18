@@ -88,9 +88,6 @@
 - **蜜罐技术与自动化攻击分析**
 - **AI驱动的威胁检测与响应**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="AI gif" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding programmer gif" />
