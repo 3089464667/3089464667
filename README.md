@@ -2,7 +2,7 @@
   <img src="imgs/image1.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">我是Qianli Wang👋 欢迎来到我的个人主页！</h1>
+<h1 align="center">我是Qianli Wang👋 欢迎来到我的个人主页！主页网站：https://3089464667.github.io/QIANLI-WANG.github.io/</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-Research-blueviolet?style=flat-square" />
