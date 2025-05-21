@@ -41,7 +41,7 @@
 | 智能蜜罐系统     | 高交互蜜罐，自动化捕获与分析攻击行为                        | Python, Docker  |
 | 安全数据可视化   | 攻击溯源与威胁情报可视化平台                                | React, ECharts         |
 
-![project](https://raw.githubusercontent.com/3089464667/Repo-Activity-Recorder/main/generated/overview.svg)
+![project](https://raw.githubusercontent.com/3089464667/Repo-Activity-Recorder/main/generated/3089464667__default-app_status.svg)
 ---
 
 ## 🛠️ 技能清单
