@@ -2,7 +2,7 @@
   <img src="imgs/image1.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">我是Qianli Wang👋 欢迎来到我的个人主页！主页网站：https://3089464667.github.io/QIANLI-WANG.github.io/</h1>
+<h1 align="center">👋 欢迎来到我的个人主页！</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-Research-blueviolet?style=flat-square" />
@@ -15,13 +15,13 @@
 
 ## 🧑‍💻 个人简介
 
-> 你好！我是Qianli Wang，专注于大语言模型（LLM）与蜜罐（Honeypot）安全技术的研究者。热爱人工智能、网络安全与前沿技术，致力于用技术守护数字世界。
+> 你好！我专注于大语言模型（LLM）与蜜罐（Honeypot）安全技术的研究者。热爱人工智能、网络安全与前沿技术，致力于用技术守护数字世界。
 
 ---
 
 <p align="center">
   <a href="https://github.com/3089464667">
-    <img src="https://github-readme-stats.vercel.app/api?username=3089464667&show_icons=true&theme=default" alt="QIANLI-WANG's GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=3089464667&show_icons=true&theme=default" alt="GitHub Stats" width="400" />
   </a>
 </p>
 
@@ -99,8 +99,6 @@
 ## 📫 联系方式
 
 - 邮箱：heimagogo6@163.com
-- GitHub：[QIANLI-WANG](https://github.com/3089464667)
-- douyin、B station、small red book：knowledge-share
 ---
 
 > “安全是人工智能的基石，创新是网络世界的未来。”
